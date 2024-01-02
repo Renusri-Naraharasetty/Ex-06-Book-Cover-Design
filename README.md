@@ -167,7 +167,8 @@ Run the program.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-15 111635.png>)
+
+![Screenshot 2023-12-15 111635](https://github.com/Renusri-Naraharasetty/Ex-06-Book-Cover-Design/assets/146916363/70c8df92-7790-4263-bdc2-deace3e5942b)
 
 
 ## RESULT:
